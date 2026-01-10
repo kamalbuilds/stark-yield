@@ -1,0 +1,3 @@
+[sncast.mainnet]
+account = "deployer"
+url = "https://starknet-mainnet.g.alchemy.com/starknet/version/rpc/v0_10/EQg9SpbyMVLhZ7QmhA7bJ_U_z9QIIeTQ"
